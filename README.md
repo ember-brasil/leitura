@@ -16,3 +16,4 @@ Para contribuir basta fazer um fork deste projeto e depois um PR (Pull Request) 
 
 ###Iniciante
 * [EmberJS para iniciantes – Parte 1](http://tableless.com.br/serie-emberjs-iniciante-parte1/) por Anderson de Castro
+* [Demonstração EmberJS](https://www.youtube.com/watch?v=B8iWVCDE63U&list=UU1PUtdA_NktdtmRpF_UGG_w) por Fabio Vedovelli
