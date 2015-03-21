@@ -1,7 +1,7 @@
 Leitura
 =======
 
-Material com Posts/Screencasts em português para aprender EmberJS
+Material com Posts/Screencasts em português para aprender EmberJS  
 Esse material é mantido pela [Comunidade EmberJS Brasil](https://www.facebook.com/groups/EmberJS.Brasil/). 
 
 
@@ -32,5 +32,5 @@ Esse material é mantido pela [Comunidade EmberJS Brasil](https://www.facebook.c
 
 ## Contribuindo
 
-Sabe de algum conteúdo legal sobre o EmberJS que não esta na lista? Compartilhe conosco! :)
+Sabe de algum conteúdo legal sobre o EmberJS que não esta na lista? Compartilhe conosco! :)  
 Fork o nosso projeto e depois envie um PR (Pull Request) para adicionarmos os novos links.
